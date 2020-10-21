@@ -8,8 +8,8 @@ function HeroSection() {
   return (
     <div className="hero-container">
       <video src="/videos/video-1.mp4" autoplay="autoplay" type="video/mp4" loop muted/>
-      <h1>TrinCamp</h1>
-      <p>Conheça as piscinas naturais de cachadaço</p>
+      <h1>Surf Camping</h1>
+      <p>Venha conhecer a Prainha Branca</p>
       <div className="hero-btns">
         <Button
           className='btns'

@@ -6,19 +6,19 @@ import "../styles/components/Cards.css";
 function Cards() {
   return (
     <div className="cards">
-      <h1>Os Locais mais lindos de Trindade estão aqui</h1>
+      <h1>Os Locais mais lindos de Guaruja estão aqui</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
               src="images/img-1.jpg"
-              text="Aguas Cristalinas, perfeita para mergulho e observação de peixes."
+              text="Trilha em meio a Natureza com acesso direto a Praia."
               label="Ver mais"
               path="/services"
             />
             <CardItem
               src="images/img-2.jpg"
-              text="Explore nossas pedras, existem diversos locais maravilhosos para observar."
+              text="Seguimos com responsabilidade todas as normas regulamentadoras de saúde."
               label="Ver mais"
               path="/services"
             />
@@ -26,19 +26,19 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src="images/img-3.jpg"
-              text="Areia branca, famosa por fazer massagem nos pés."
+              text="Areias que fazem jus a o nome do local, com ondas que chegam a 1m."
               label="Ver mais"
               path="/services"
             />
             <CardItem
               src="images/img-4.jpg"
-              text="Mar com ondas bem baixas, o ideal para toda familiar nadar."
+              text="Não trouxe barraca? Não se preocupe...Nós alugamos Barracas."
               label="Ver mais"
               path="/services"
             />
             <CardItem
               src="images/img-5.jpg"
-              text="Temos inumeras trilhas com muita diversidade de natureza."
+              text="Local de Camping em meio a mata nativa da Prainha Branca."
               label="Ver mais"
               path="/services"
             />
